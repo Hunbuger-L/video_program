@@ -1,0 +1,4 @@
+  <log time="2026-10-18 15:47:55" level="error" file="D:\My_Code\video_edit\src\test_xlog\test_xlog.cpp" line="9">
+    <message><![CDATA[123456]]></message>
+  </log>
+

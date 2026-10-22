@@ -1,0 +1,31 @@
+# Visual Studio 编译目录
+Debug/
+Release/
+x64/
+x86/
+ipch/
+.vs/
+
+# 编译中间与产物文件
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.log
+*.tlog
+*.ipch
+*.idb
+*.recipe
+*.vcxproj.user
+*.vcxproj.filters
+
+# 大文件资源
+*.mp4
+*.mov
+*.zip
+
+# 系统缓存文件
+Thumbs.db
+.DS_Store
